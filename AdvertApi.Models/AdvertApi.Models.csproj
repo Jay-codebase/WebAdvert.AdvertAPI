@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Suyog</Authors>
+    <Company>None</Company>
+    <PackageProjectUrl>https://github.com/Jay-codebase/WebAdvert.AdvertAPI</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Jay-codebase/WebAdvert.AdvertAPI</RepositoryUrl>
+    <PackageId>WebAdvertApi</PackageId>
+    <Product>Web API for microservices</Product>
   </PropertyGroup>
 
 </Project>
