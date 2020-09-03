@@ -22,7 +22,7 @@ namespace WebAdvert.AdvertAPI.HealthCheck
             var isstorageok = true;
             
             if (isstorageok)
-                return Task.FromResult(HealthCheckResult.Healthy(""));
+                return Task.FromResult(HealthCheckResult.Healthy("App is ok"));
             else
                 return Task.FromResult(HealthCheckResult.Unhealthy(""));
 
